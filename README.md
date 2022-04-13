@@ -12,7 +12,7 @@
 * https://www.ncbi.nlm.nih.gov/nuccore/JAHRGN000000000.1
 
 ### Version 2.0
-* PacBio HiFi based, hybrid assembly : In processing
+* PacBio HiFi based, hybrid assembly with PromethION : In processing
 
 ## Sequencing data
 ### PacBio HiFi data (Produced by the Church lab, Harvard Medical School)
