@@ -7,11 +7,11 @@
 
 ### ONT PromethION
 * Pre-assembly with whole sequencing data using Flye assembler
-* Variant calling with PromethION reads against pre-assembly using PEPPER-Margin-DeepVariant pipeline
+* Variant calling with PromethION reads against pre-assembly using PEPPER-Margin-DeepVariant pipeline (https://github.com/kishwarshafin/pepper)
 * Generating phased bam and fastq using Margin program
 * Main contig assembly with phased reads (H1+H0 and H2+H0)
 * Correcting base errors using Medaka program (1st phase)
-* Correcting base errors with HiFi reads using DeepVariant and Merfin program
+* Correcting base errors with HiFi reads using DeepVariant and Merfin program (https://github.com/UCSC-nanopore-cgl/margin)
 
 ## Merging contig assemblies for generating exteneded contigs
 * Merging contig assemblies using Quickmerger (ref: HiFi, target: ONT)
