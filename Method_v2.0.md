@@ -1,6 +1,6 @@
 # PGP1 genome assembly version 2.0
 
-<img src = "https://user-images.githubusercontent.com/25347568/163683905-34631e8e-125c-4b90-884e-54806c0d8104.png" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/25347568/163683905-34631e8e-125c-4b90-884e-54806c0d8104.png" width="40%" height="40%">
 
 ## Contig assembly for generating phased reads
 ### PacBio HiFi
