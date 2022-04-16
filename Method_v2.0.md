@@ -1,5 +1,7 @@
 # PGP1 genome assembly version 2.0
 
+![PGP1_v2 hybrid](https://user-images.githubusercontent.com/25347568/163683905-34631e8e-125c-4b90-884e-54806c0d8104.png)
+
 ## Contig assembly for generating phased reads
 ### PacBio HiFi
 * Hifiasm assembly with HiFi and Hi-C reads (Hi-C mode)
@@ -18,3 +20,4 @@
 
 ## Assessing base accuracy on extended contigs
 * Merqury with short reads
+
