@@ -1,5 +1,5 @@
 # PGP1 genome project
-* PGP1 is the first genome of PGP (Personal Genome Project).
+* PGP1 is the first genome of the Personal Genome Project (PGP).
 * The latest manuscript of the genome assembly was uploaded to the BioRxiv (https://doi.org/10.1101/2021.09.03.458806).
 
 ## General Information
