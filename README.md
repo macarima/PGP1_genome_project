@@ -14,7 +14,7 @@
 ### Version 2.0
 * PacBio HiFi based, hybrid assembly with PromethION : In processing
 * Methods : https://github.com/macarima/PGP1_genome_project/blob/main/Method_v2.0.md
-* Results : https://github.com/macarima/PGP1_genome_project/blob/main/Result_v2.md
+* Results : https://github.com/macarima/PGP1_genome_project/blob/main/Results_v2.md
 
 ## Sequencing data
 ### PacBio HiFi data (Produced by the Church lab, Harvard Medical School)
