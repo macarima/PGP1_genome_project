@@ -18,6 +18,14 @@
 ## Merging contig assemblies for generating exteneded contigs
 * Merging contig assemblies using Quickmerger (ref: HiFi, target: ONT)
 
+## Correcting base errors on extended contigs
+* 1st : Correction by HiFi reads
+* 2nd : Correction by short reads
+* Variant caller : DeepVariant v1.3.0
+
 ## Assessing base accuracy on extended contigs
 * Merqury with short reads
 
+## Scaffolding extended contigs
+* 1st scaffolding : Reference-guided scaffolding aginast CHM13v2 using RagTag
+* 2nd scaffolding (+ correcting local-misassemblies) : Juicer + 3D-DNA pipeline
