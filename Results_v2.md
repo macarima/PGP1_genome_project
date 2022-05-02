@@ -2,7 +2,7 @@
 ### Hap1
 <img width="920" alt="pgp1_hap1 rc1" src="https://user-images.githubusercontent.com/25347568/166116934-8b5279bd-b1f1-48ca-ae72-37fd3f0684b6.png">
 
-### Comparison with CHM13v2 using MUMMER and Dot
+#### Comparison with CHM13v2 using MUMMER and Dot
 * chrX
 <img width="520" alt="pgp1_chm13 chrX" src="https://user-images.githubusercontent.com/25347568/166116982-fb56f1e8-6de0-4808-9ba4-f349c8e574f4.png">
 
