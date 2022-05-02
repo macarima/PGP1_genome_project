@@ -6,8 +6,8 @@
 * chrX
 <img width="520" alt="pgp1_chm13 chrX" src="https://user-images.githubusercontent.com/25347568/166116982-fb56f1e8-6de0-4808-9ba4-f349c8e574f4.png">
 
-* chr1 (need to fix a duplicated region)
-<img width="520" alt="pgp1_chm13 chr1" src="https://user-images.githubusercontent.com/25347568/166243416-23d068fb-be61-4b2f-a2f4-ee05cbb5d7c5.png">
+* chr1 (need to fix a duplicated region, left=scaffold / right=contig)
+<img width="520" alt="pgp1_chm13 chr1" src="https://user-images.githubusercontent.com/25347568/166243416-23d068fb-be61-4b2f-a2f4-ee05cbb5d7c5.png"> <img width="938" alt="pgp1_chm13 chr1_contig" src="https://user-images.githubusercontent.com/25347568/166341172-99a67490-8ea7-4fbe-ba6a-7c21c7b646c9.png">
 
 * chr2
 <img width="520" alt="pgp1_chm13 chr2" src="https://user-images.githubusercontent.com/25347568/166257156-beb8a23f-03de-400b-93c4-038b991efbe2.png">
