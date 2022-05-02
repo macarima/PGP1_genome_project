@@ -12,6 +12,12 @@
 * chr2
 <img width="520" alt="pgp1_chm13 chr2" src="https://user-images.githubusercontent.com/25347568/166257156-beb8a23f-03de-400b-93c4-038b991efbe2.png">
 
+* chr3
+<img width="520" alt="pgp1_chm13 chr3" src="https://user-images.githubusercontent.com/25347568/166317682-de9be8d5-b68f-4868-b20c-945f8b935a51.png">
+
+* chr4
+<img width="520" alt="pgp1_chm13 chr4" src="https://user-images.githubusercontent.com/25347568/166317700-ff3d6d0f-4f0b-4a3c-b3c4-407be80963c3.png">
+
 * chr10
 <img width="520" alt="pgp1_chm13 chr10" src="https://user-images.githubusercontent.com/25347568/166117046-19a6f8ac-a924-4338-ac23-b1f55225a40e.png">
 
