@@ -18,6 +18,12 @@
 * chr4
 <img width="520" alt="pgp1_chm13 chr4" src="https://user-images.githubusercontent.com/25347568/166317700-ff3d6d0f-4f0b-4a3c-b3c4-407be80963c3.png">
 
+* chr5
+<img width="520" alt="pgp1_chm13 chr5" src="https://user-images.githubusercontent.com/25347568/166338266-5566cc81-8f5c-4238-88ff-741d5a0acd01.png">
+
+* chr6
+<img width="520" alt="pgp1_chm13 chr6" src="https://user-images.githubusercontent.com/25347568/166338283-203e7bea-729d-42b4-a17d-5b1676ad3c66.png">
+
 * chr10
 <img width="520" alt="pgp1_chm13 chr10" src="https://user-images.githubusercontent.com/25347568/166117046-19a6f8ac-a924-4338-ac23-b1f55225a40e.png">
 
