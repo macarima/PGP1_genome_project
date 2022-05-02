@@ -9,6 +9,9 @@
 * chr1 (need to fix a duplicated region)
 <img width="520" alt="pgp1_chm13 chr1" src="https://user-images.githubusercontent.com/25347568/166243416-23d068fb-be61-4b2f-a2f4-ee05cbb5d7c5.png">
 
+* chr2
+<img width="520" alt="pgp1_chm13 chr2" src="https://user-images.githubusercontent.com/25347568/166257156-beb8a23f-03de-400b-93c4-038b991efbe2.png">
+
 * chr10
 <img width="520" alt="pgp1_chm13 chr10" src="https://user-images.githubusercontent.com/25347568/166117046-19a6f8ac-a924-4338-ac23-b1f55225a40e.png">
 
