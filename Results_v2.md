@@ -15,8 +15,32 @@
 * chr10
 <img width="520" alt="pgp1_chm13 chr10" src="https://user-images.githubusercontent.com/25347568/166117046-19a6f8ac-a924-4338-ac23-b1f55225a40e.png">
 
+* chr11
+<img width="520" alt="pgp1_chm13 chr11" src="https://user-images.githubusercontent.com/25347568/166271191-d2f087d7-0f16-497b-9f9a-fc3466f6c5f2.png">
+
+* chr12
+<img width="520" alt="pgp1_chm13 chr12" src="https://user-images.githubusercontent.com/25347568/166271442-f4b4fd09-4bd3-458d-97c4-488282edb5ef.png">
+
+* chr13
+<img width="520" alt="pgp1_chm13 chr13" src="https://user-images.githubusercontent.com/25347568/166271733-71f3de0f-5545-46a2-a524-1409e95e96b2.png">
+
 * chr14
 <img width="520" alt="pgp1_chm13 chr14" src="https://user-images.githubusercontent.com/25347568/166243033-5e08071d-f5d9-4f3d-8249-018151e68ae3.png">
+
+* chr15
+<img width="520" alt="pgp1_chm13 chr15" src="https://user-images.githubusercontent.com/25347568/166272490-4a6e6430-c7fd-4aca-8167-16dd795b5da6.png">
+
+* chr16
+<img width="520" alt="pgp1_chm13 chr16" src="https://user-images.githubusercontent.com/25347568/166272715-39d1cc54-06a7-49df-bd73-b4ebf0d9b797.png">
+
+* chr17
+<img width="520" alt="pgp1_chm13 chr17" src="https://user-images.githubusercontent.com/25347568/166272895-6bf0f293-1997-4beb-83c6-8c18ee25c59e.png">
+
+* chr18
+<img width="520" alt="pgp1_chm13 chr18" src="https://user-images.githubusercontent.com/25347568/166273159-957669bc-1009-4870-927a-5f67ae2d8aa7.png">
+
+* chr19
+<img width="520" alt="pgp1_chm13 chr19" src="https://user-images.githubusercontent.com/25347568/166273445-b2f837e1-849e-4a22-a45e-9252f43b541f.png">
 
 * chr20
 <img width="520" alt="pgp1_chm13 chr20" src="https://user-images.githubusercontent.com/25347568/166117055-073eb06c-cc1f-4b33-a2bc-987028f5c8db.png">
