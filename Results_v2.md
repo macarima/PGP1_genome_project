@@ -6,7 +6,7 @@
 * chrX
 <img width="520" alt="pgp1_chm13 chrX" src="https://user-images.githubusercontent.com/25347568/166116982-fb56f1e8-6de0-4808-9ba4-f349c8e574f4.png">
 
-* chr1 (need to fix a duplicated region)  
+* chr1 (need to fix a duplicated region)
 [Scaffold]
 <img width="520" alt="pgp1_chm13 chr1" src="https://user-images.githubusercontent.com/25347568/166243416-23d068fb-be61-4b2f-a2f4-ee05cbb5d7c5.png">
 [Contig]
