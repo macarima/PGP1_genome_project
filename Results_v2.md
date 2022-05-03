@@ -59,3 +59,7 @@
 
 * chr20
 <img width="520" alt="pgp1_chm13 chr20" src="https://user-images.githubusercontent.com/25347568/166117055-073eb06c-cc1f-4b33-a2bc-987028f5c8db.png">
+
+
+### Hap2
+<img width="970" alt="pgp1_hap2 rc1" src="https://user-images.githubusercontent.com/25347568/166555320-b96744b7-1193-421b-a445-1a6c893d3ca3.png">
