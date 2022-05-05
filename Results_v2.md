@@ -63,3 +63,9 @@
 
 ### Hap2
 <img width="970" alt="pgp1_hap2 rc1" src="https://user-images.githubusercontent.com/25347568/166555320-b96744b7-1193-421b-a445-1a6c893d3ca3.png">
+
+* chr10
+<img width="520" alt="pgp1_chm13_hap2 chr10" src="https://user-images.githubusercontent.com/25347568/167018318-54506996-6479-404d-9cf1-dec761eb0c16.png">
+
+* chr18
+<img width="520" alt="pgp1_chm13_hap2 chr18" src="https://user-images.githubusercontent.com/25347568/167018253-eb950fe0-452b-4ddc-ac36-a93f5af2c8fb.png">
