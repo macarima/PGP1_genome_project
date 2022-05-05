@@ -1,8 +1,8 @@
 ## Statistics
-### Hap1
+## Hap1
 <img width="920" alt="pgp1_hap1 rc1" src="https://user-images.githubusercontent.com/25347568/166116934-8b5279bd-b1f1-48ca-ae72-37fd3f0684b6.png">
 
-#### Comparison with CHM13v2 using MUMMER and Dot
+### Comparison with CHM13v2 using MUMMER and Dot
 * chrX
 <img width="520" alt="pgp1_chm13 chrX" src="https://user-images.githubusercontent.com/25347568/166116982-fb56f1e8-6de0-4808-9ba4-f349c8e574f4.png">
 
@@ -61,9 +61,10 @@
 <img width="520" alt="pgp1_chm13 chr20" src="https://user-images.githubusercontent.com/25347568/166117055-073eb06c-cc1f-4b33-a2bc-987028f5c8db.png">
 
 
-### Hap2
+## Hap2
 <img width="970" alt="pgp1_hap2 rc1" src="https://user-images.githubusercontent.com/25347568/166555320-b96744b7-1193-421b-a445-1a6c893d3ca3.png">
 
+### Comparison with CHM13v2 using MUMMER and Dot
 * chr10
 <img width="520" alt="pgp1_chm13_hap2 chr10" src="https://user-images.githubusercontent.com/25347568/167018318-54506996-6479-404d-9cf1-dec761eb0c16.png">
 
