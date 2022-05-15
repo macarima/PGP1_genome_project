@@ -65,6 +65,8 @@
 <img width="970" alt="pgp1_hap2 rc1" src="https://user-images.githubusercontent.com/25347568/166555320-b96744b7-1193-421b-a445-1a6c893d3ca3.png">
 
 ### Comparison with CHM13v2 using MUMMER and Dot
+* chrY
+
 * chr2
 <img width="520" alt="pgp1_chm13_chr2 hap2" src="https://user-images.githubusercontent.com/25347568/168475353-d00ad73a-fbd9-430e-bdaa-168c97c02c13.png">
 
@@ -88,6 +90,7 @@
 
 * chr9
 <img width="520" alt="pgp1_chm13_hap2 chr9" src="https://user-images.githubusercontent.com/25347568/168494502-9e693153-3f08-42dd-b826-89c31e720c2b.png">
+
 * chr10
 <img width="520" alt="pgp1_chm13_hap2 chr10" src="https://user-images.githubusercontent.com/25347568/167018318-54506996-6479-404d-9cf1-dec761eb0c16.png">
 
@@ -114,3 +117,12 @@
 
 * chr18
 <img width="520" alt="pgp1_chm13_hap2 chr18" src="https://user-images.githubusercontent.com/25347568/167018253-eb950fe0-452b-4ddc-ac36-a93f5af2c8fb.png">
+
+* chr19
+<img width="520" alt="pgp1_chm13_hap2 chr19" src="https://user-images.githubusercontent.com/25347568/168495029-fece51ac-7015-49ae-a0a9-4e3423cfa262.png">
+
+* chr20
+<img width="520" alt="pgp1_chm13_hap2 chr20" src="https://user-images.githubusercontent.com/25347568/168495031-0d8c1a6b-5c9a-4ad4-827f-009ba06f2d06.png">
+
+* chr21
+<img width="520" alt="pgp1_chm13_hap2 chr21" src="https://user-images.githubusercontent.com/25347568/168495036-6943656b-912e-42e1-92a7-0900d66e89e8.png">
