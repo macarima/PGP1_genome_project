@@ -80,6 +80,14 @@
 * chr6
 <img width="520" alt="pgp1_chm13_hap2 chr6" src="https://user-images.githubusercontent.com/25347568/168475393-b580ae2a-935a-4f9f-a959-962c1972035a.png">
 
+* chr7
+<img width="520" alt="pgp1_chm13_hap2 chr7" src="https://user-images.githubusercontent.com/25347568/168494495-4a504bc6-8d52-4a85-a779-e1aa8cd47eb7.png">
+
+* chr8
+<img width="520" alt="pgp1_chm13_hap2 chr8" src="https://user-images.githubusercontent.com/25347568/168494499-372f6b95-03e1-43ff-a160-1e55010d612e.png">
+
+* chr9
+<img width="520" alt="pgp1_chm13_hap2 chr9" src="https://user-images.githubusercontent.com/25347568/168494502-9e693153-3f08-42dd-b826-89c31e720c2b.png">
 * chr10
 <img width="520" alt="pgp1_chm13_hap2 chr10" src="https://user-images.githubusercontent.com/25347568/167018318-54506996-6479-404d-9cf1-dec761eb0c16.png">
 
