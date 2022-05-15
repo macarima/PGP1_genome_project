@@ -66,6 +66,7 @@
 
 ### Comparison with CHM13v2 using MUMMER and Dot
 * chrY
+<img width="520" alt="pgp1_chm13_hap2 chrY" src="https://user-images.githubusercontent.com/25347568/168495079-67b0a3a1-e29c-4d9d-a51a-c100cdee9c65.png">
 
 * chr2
 <img width="520" alt="pgp1_chm13_chr2 hap2" src="https://user-images.githubusercontent.com/25347568/168475353-d00ad73a-fbd9-430e-bdaa-168c97c02c13.png">
