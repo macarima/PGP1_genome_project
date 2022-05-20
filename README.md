@@ -16,7 +16,7 @@
 * Methods : https://github.com/macarima/PGP1_genome_project/blob/main/Method_v2.0.md
 * Results : https://github.com/macarima/PGP1_genome_project/blob/main/Results_v2.md
 
-## Sequencing data
+## Sequencing data (All data are available at the public database.)
 ### PacBio HiFi data (Produced by the Church lab, Harvard Medical School)
 A total of 49.5 Gb of data (27x coverage) is available at NCBI Genbank.
 * https://www.ncbi.nlm.nih.gov/sra/SRX7671688[accn]
